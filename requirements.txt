@@ -1,0 +1,8 @@
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+pandas 
+numpy
+selenium
+webdriver-manager
+bs4
